@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StatusLineView">
+        <attr name="textSize" format="dimension" />
+        <attr name="lineWidth" format="dimension" />
+        <attr name="CompleteColor" format="color" />
+        <attr name="NormalColor" format="color" />
+    </declare-styleable>
+</resources>
